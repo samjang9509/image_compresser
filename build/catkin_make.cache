@@ -1,0 +1,2 @@
+compresser
+-DCATKIN_DEVEL_PREFIX=/home/cona/image_compresser/devel -DCMAKE_INSTALL_PREFIX=/home/cona/image_compresser/install -G Unix Makefiles

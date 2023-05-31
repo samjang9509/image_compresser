@@ -1,0 +1,8 @@
+prefix=/home/cona/image_compresser/install
+
+Name: compresser
+Description: Description of compresser
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: cv_bridge roscpp rospy sensor_msgs std_msgs
